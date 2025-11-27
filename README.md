@@ -1,6 +1,8 @@
 # My Ticketing Backend (Express.js)
 
-My Ticketing Backend is a REST API for managing ticketing workflows. It provides endpoints for authentication, ticket creation, ticket management, and dashboard analytics. The API is intended to be used by the My Ticketing Frontend.
+My Ticketing Backend is a REST API for managing ticketing workflows. It provides endpoints for authentication, ticket creation, ticket management, and dashboard analytics.
+This API is intended to be used by the [My Ticketing Frontend](https://github.com/ZefanyaDelvin/my-ticketing-fe.git):
+.
 
 ---
 
